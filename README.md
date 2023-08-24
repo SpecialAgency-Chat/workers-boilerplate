@@ -9,4 +9,3 @@ A boilerplate for Cloudflare Workers.
 3. `wrangler build`
 4. It will generate a `dist` folder
 5. `wrangler dev` to test locally
-6. 
