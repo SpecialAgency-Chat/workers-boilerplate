@@ -1,0 +1,5 @@
+# YOU MUST EDIT THIS!
+# name = "katool"
+
+main = "dist/server.js"
+compatibility_date = "2023-08-14"
