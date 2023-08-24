@@ -10,7 +10,8 @@
     "dev": "wrangler dev",
     "build": "node build.js",
     "lint": "eslint . & prettier --check .",
-    "lint:fix": "eslint . --fix & prettier --write ."
+    "lint:fix": "eslint . --fix & prettier --write .",
+    "deploy": "wrangler deploy"
   },
   "repository": {
     "type": "git",
