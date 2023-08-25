@@ -6,3 +6,7 @@ pnpm-lock.yaml
 tsconfig.json
 wrangler.toml
 LICENSE
+CODE_OF_CONDUCT.md
+package.json
+.github
+.prettierrc
