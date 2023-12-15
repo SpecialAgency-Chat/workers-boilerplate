@@ -34,7 +34,7 @@
   "homepage": "https://github.com/SpecialAgency-Chat/workers-boilerplate#readme",
   "dependencies": {
     "@cloudflare/workers-types": "^4.20230821.0",
-    "hono": "^3.5.4"
+    "hono": "^3.11.7"
   },
   "devDependencies": {
     "@types/jest": "^29.5.4",
